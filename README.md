@@ -21,7 +21,7 @@ In order to do this, you planned to build a sentiment-based product recommendati
 
 ## Technologies Used: 
 
-Python, HTML, CSS, Bootstrap
+Python, HTML, CSS
 
 ## Libraries Used: 
 
