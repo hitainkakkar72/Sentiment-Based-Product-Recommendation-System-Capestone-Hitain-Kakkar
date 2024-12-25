@@ -27,6 +27,9 @@ Python, HTML, CSS
 
 Numpy, Pandas, Seaborn, Matplotlib, Sklearn, Pickle, Flask
 
+## Link to Herokuapp
+https://hksentimentbasedproductrecommendationsystem.herokuapp.com/
+
 ## Contributors
 ## Contact
 ### Project by Hitain Kakkar
